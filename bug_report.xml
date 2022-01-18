@@ -1,0 +1,27 @@
+<bug_report>
+	<ID>BRST0921-184</ID>
+	<Title>Recipes come up twice in popup window by double-clicking on them in the Andriod app</Title>
+	<Type>Bug</Type>
+	<Status>To Do</Status>
+	<Priority>Minor</Priority>
+	<Resolution>Unresolved</Resolution>
+	<Environment>Samsung Galaxy A50 SM-A505F Android 11, Mobile app ver. 21.2.2</Environment>
+	<Description>
+			<Precondition>	
+				<Precondition_1>1. Open Prepear mobile app</Precondition_1>
+				<Precondition_2>2. Sign In with correct data</Precondition_2>
+			</Precondition>
+			<Steps>	
+				<Step_1>1. Click on the "Recipes" button</Step_1>
+				<Step_2>Double-click on the any Recipe image</Step_2>
+				<Step_3>Click on the "<" button</Step_3>
+				<Step_4>Double-click on the Next Recipe image</Step_4>
+				<Step_5>Click on the "<" button</Step_5>
+			</Steps>
+			<Actual_result>Recipes come up twice in the popup window by double-clicking on them in the Andriod app</Actual_result>
+			<Expected_result>One recipes should appear in a popup window after double clicking in the Andriod app</Expected_result>
+	</Description>
+	<Attachments>bug_1.png</Attachments>
+	<Reporter>Igor Karabach</Reporter>
+	<Assignee>Darya Khvahina</Assignee>
+</bug_report>
